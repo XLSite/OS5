@@ -1,7 +1,20 @@
 /modules/
 /progs/
-/userdata/
-!userdata/MariaDB-10.5-Win10/
+/userdata/PostgreSQL*
+/userdata/profiles/
+/userdata/Redis*
+/userdata/MySQL*
+/userdata/Bind*
+/userdata/composer
+/userdata/config
+/userdata/iconcache
+/userdata/MariaDB-10.8*
+/userdata/MariaDB-10.7*
+/userdata/MariaDB-10.6*
+/userdata/temp
+/userdata/logs
+/userdata/*.ini
+/userdata/*.txt
 /Open Server Panel.exe
 /domains/**/wp-admin/
 /domains/**/wp-content/index.php
