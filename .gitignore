@@ -1,0 +1,16 @@
+/modules/
+/progs/
+/userdata/
+!userdata/MariaDB-10.5-Win10/
+/Open Server Panel.exe
+/domains/**/wp-admin/
+/domains/**/wp-content/index.php
+/domains/**/wp-content/languages
+/domains/**/wp-content/plugins/index.php
+/domains/**/wp-content/themes/index.php
+/domains/**/wp-includes/
+/domains/**/index.php
+/domains/**/license.txt
+/domains/**/readme.html
+/domains/**/wp-*.php
+/domains/**/xmlrpc.php
